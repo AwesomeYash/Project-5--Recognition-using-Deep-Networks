@@ -44,25 +44,25 @@ Project_5/
 
 ├── Code Files/
 
-│ ├── Task_1_ABCD/
+│ ├── Task_1_ABCD.py
 
-│ ├── Task_1_E/
+│ ├── Task_1_E.py
 
-│ ├── Task_1_F/
+│ ├── Task_1_F.py
 
-│ ├── Task_2/
+│ ├── Task_2.py
 
-│ ├── Task_3/
+│ ├── Task_3.py
 
-│ ├── Task_4/
+│ ├── Task_4.py
 
-│ ├── Task_4_Plotting/
+│ ├── Task_4_Plotting.py
 
-│ ├── Extension_1/
+│ ├── Extension_1.py
 
-│ ├── Extension_2/
+│ ├── Extension_2.py
 
-│ └── Extension_2_Plotting/
+│ └── Extension_2_Plotting.py
 
 ├── CSV Files/
 
@@ -72,23 +72,23 @@ Project_5/
 
 ├── Datasets/
 
-│ ├── data/ # MNIST
+│ ├── data                   # MNIST
 
-│ ├── dataFashion/ # Fashion MNIST
+│ ├── dataFashion             # Fashion MNIST
 
-│ ├── Greek_train/
+│ ├── Greek_train/            # Greek Letters Dataset
 
-│ ├── Paint_test_images/
+│ ├── Paint_test_images/      # Paint Number Dataset
 
-│ └── Written_test_images/
+│ └── Written_test_images/    # Handwritten Number Dataset
 
-├── Models/ # Saved model checkpoints
+├── Models/                   # Saved model checkpoints
 
-├── Outputs/ # Performance metrics, logs, visual results
+├── Outputs/                  # Performance metrics, logs, visual results
 
 ├── PRCV_Project_5_Report.pdf # Final report
 
-└── README.md # This file
+└── README.md                 # This file
 
 ---
 ## 🛠️ Requirements
@@ -101,13 +101,13 @@ pip install torch torchvision matplotlib numpy pandas opencv-python
 
 ---
 ## ▶️ How to Run
-Clone the repository.
+- Clone the repository.
 
-Ensure all required datasets and .csv files are extracted into the corresponding folders.
+- Ensure all required datasets and .csv files are extracted into the corresponding folders.
 
-Navigate to the specific task directory.
+- Navigate to the specific task directory.
 
-Run the appropriate script directly using Python:
+- Run the appropriate script directly using Python:
 ```bash
 python task_script.py
 ```
@@ -115,15 +115,15 @@ python task_script.py
 
 ---
 ## 📊 Outputs
-Accuracy plots
+- Accuracy plots
 
-Filter visualizations
+- Filter visualizations
 
-Feature maps
+- Feature maps
 
-Transfer learning results
+- Transfer learning results
 
-Experiment summaries in CSV format
+- Experiment summaries in CSV format
 
 ---
 ## 🔗 Project Resources
@@ -135,17 +135,17 @@ Experiment summaries in CSV format
 
 ---
 ## 💡 Concepts Covered
-Convolutional Neural Networks (CNNs)
+- Convolutional Neural Networks (CNNs)
 
-Feature visualization
+- Feature visualization
 
-Transfer learning
+- Transfer learning
 
-Model evaluation
+- Model evaluation
 
-Hyperparameter optimization
+- Hyperparameter optimization
 
-Experiment tracking with CSV logging
+- Experiment tracking with CSV logging
 
 ---
 ## 📬 Contact
